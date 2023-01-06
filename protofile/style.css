@@ -1,0 +1,75 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+
+  padding-top: 100px;
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 0;
+  font-family: 'Moon Dance', cursive;
+  font-size: 562.5%;
+  color:#790252;
+  line-height: 0.5;
+}
+h2
+{
+  font-family: 'Moon Dance', cursive;
+font-family: 'Passions Conflict', cursive;
+color: #AF0171;
+font-size: 50px;
+}
+h3
+{
+  color: #513252;
+  font-size: 30px;
+}
+.top{
+  background-color: #D09CFA;
+  font-size: 30px;
+}
+.heart{
+  background-color: #D09CFA;
+  width: 10%;
+  float: left;
+  padding: 20px;
+}
+img
+{
+    width: 400px;
+    background-color: #F9B5D0;
+}
+.middle{
+  padding: 100px;
+  font-size: 30px;
+
+}
+.bottom{
+  padding: 20px;
+  background-color: #E3ACF9;
+  font-size: 30px;
+}
+
+.big{
+  width: 50%;
+}
+.con{
+
+  height: 100px;
+  margin: 0;
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 0;
+  padding: 10px;
+  background-color: #790252;
+
+}
+.program:hover{
+  color:#2bc4ad;
+}
+.program{
+  font-size: 30px;
+  color: #CDF0EA;
+  line-height: 0;
+}
